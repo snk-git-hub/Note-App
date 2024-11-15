@@ -17,5 +17,5 @@ A simple and minimalist note-taking app that allows users to add, view, and dele
 To run the Notes app locally, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
-https://github.com/snk-git-hub/Note-App.git
+   ```bashhttps://github.com/snk-git-hub/Note-App.git
+
