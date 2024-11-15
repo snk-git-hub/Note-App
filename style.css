@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-top: -90px;
+
+}
+
+#main{
+    width: 100%;
+    min-height: 100vh;
+    background-color:#000000;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.simple-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #148dff; 
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+    position: absolute;
+    margin-left: 188VH;
+    margin-top: 10VH;
+}
+
+.simple-button:hover {
+    background-color: #a7a7ab53; 
+}
+
+.simple-button:focus {
+    outline: none;
+}   
+ 
+.note{
+    width: 300px;
+    height: 300px;
+    background-color: #191919;
+    border-radius: 25px;
+    margin: 140px 50px ;
+}
+.tool{
+    width: 100%;
+    height: 50px;
+    background-color: #2d3436;
+    color: aliceblue;
+    padding: 20px;
+    display: flex;
+    border-radius: 10px 10px 0px 0px;
+    justify-content: end;
+}
+.tool i{
+    padding: 5px;
+    color: #4d5455;
+    cursor: pointer;
+   
+}
+
+.head{
+    color:rgba(11, 205, 254, 0.596) ;
+    position: absolute;  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    left: 10px;
+    top: 60px;
+}
+.note textarea{
+    border: none;
+    width: 100%;
+    height: 250px;
+    resize: none;
+    background-color: #232323b1;
+    color: rgba(16, 222, 250, 0.151);
+    padding:10px ;
+    overflow-y: scroll;
+    border-radius: 0px 0px 25px 25px;
+
+
+}
+.note textarea:focus{
+    border:0;
+    outline: 0;
+}
+.note textarea::-webkit-scrollbar {
+    display: none; 
+}
+
+
+.dlt{
+    border: none;
+    background-color:#2d3436 ;
+}
