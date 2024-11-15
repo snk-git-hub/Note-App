@@ -2,6 +2,7 @@
 
 A simple and minimalist note-taking app that allows users to add, view, and delete notes. This app is designed to be intuitive and user-friendly, with a focus on a clean interface.
 
+![image](https://github.com/user-attachments/assets/2d95d7a7-2f7b-4b40-b26c-b4815d9b081a)
 
 ## Features
 
@@ -15,3 +16,4 @@ To run the Notes app locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
+https://github.com/snk-git-hub/Note-App.git
