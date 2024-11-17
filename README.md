@@ -1,5 +1,5 @@
-# Notes App
-# Notes App - JavaScript Learning Project
+
+# Notes App - JavaScript Learning mini Project 1
 
 This is a simple note-taking app built for learning JavaScript. The goal of this project is to practice and improve JavaScript skills while building a functional and interactive web app.
 A simple and minimalist note-taking app that allows users to add, view, and delete notes. This app is designed to be intuitive and user-friendly, with a focus on a clean interface.
